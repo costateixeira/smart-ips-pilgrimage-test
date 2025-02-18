@@ -1,8 +1,8 @@
-id: smart.who.int.ig-empty
-canonical: http://smart.who.int/ig-empty
-name: IGEmpty
-title: Empty IG
-description: An empty Implementation Guide to be used as a starting point for building SMART Guidelines Implementation Guides
+id: smart.who.int.ips-pilgrimage-test
+canonical: http://smart.who.int/ips-pilgrimage-test
+name: SMART_WHO_INT_IPS_Pilgrimage_Test
+title: SMART Verifiable IPS for Pilgrimage - Test package
+description: An Implementation Guide which describes how to utilize GDHCN and IPS for verifiable health documents during pilgrimage
 status: draft # draft | active | retired | unknown
 experimental: false
 version: 0.1.0
