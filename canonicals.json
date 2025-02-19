@@ -1,0 +1,9 @@
+[
+  {
+    "id" : "smart.who.int.ips-pilgrimage-test",
+    "type" : "ImplementationGuide",
+    "url" : "http://smart.who.int/ips-pilgrimage-test/ImplementationGuide/smart.who.int.ips-pilgrimage-test",
+    "version" : "0.1.0",
+    "name" : "SMART_WHO_INT_IPS_Pilgrimage_Test"
+  }
+]

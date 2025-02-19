@@ -1,0 +1,278 @@
+{
+  "date" : "Wed, 19 Feb, 2025 13:53:35 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-smart.who.int.ips-pilgrimage-test.json",
+      "size" : 9946,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 51,
+          "length" : 45
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 51,
+          "length" : 6
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 215
+        },
+        {
+          "activity" : "validate",
+          "start" : 53,
+          "length" : 3966
+        },
+        {
+          "activity" : "generate1",
+          "start" : 63,
+          "length" : 88
+        },
+        {
+          "activity" : "generate2",
+          "start" : 64,
+          "length" : 78
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 4
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 93,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-MyIPS.json",
+      "size" : 33856,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 51,
+          "length" : 33
+        },
+        {
+          "activity" : "load",
+          "start" : 51,
+          "length" : 86
+        },
+        {
+          "activity" : "load",
+          "start" : 51,
+          "length" : 1
+        },
+        {
+          "activity" : "scan",
+          "start" : 51,
+          "length" : 1
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 51,
+          "length" : 3
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 51,
+          "length" : 1318
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 57,
+          "length" : 1
+        },
+        {
+          "activity" : "validate",
+          "start" : 57,
+          "length" : 4303
+        },
+        {
+          "activity" : "generate1",
+          "start" : 63,
+          "length" : 92
+        },
+        {
+          "activity" : "generate2",
+          "start" : 64,
+          "length" : 108
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 93,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/DocumentReference-FHIRIPSDocumentReference.json",
+      "size" : 1215,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 51,
+          "length" : 23
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 53,
+          "length" : 181
+        },
+        {
+          "activity" : "validate",
+          "start" : 61,
+          "length" : 869
+        },
+        {
+          "activity" : "generate1",
+          "start" : 63,
+          "length" : 14
+        },
+        {
+          "activity" : "generate2",
+          "start" : 64,
+          "length" : 20
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/DocumentReference-FHIRIPSSignedDocumentReference.json",
+      "size" : 1067,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 51,
+          "length" : 23
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 53,
+          "length" : 154
+        },
+        {
+          "activity" : "validate",
+          "start" : 62,
+          "length" : 118
+        },
+        {
+          "activity" : "generate1",
+          "start" : 63,
+          "length" : 18
+        },
+        {
+          "activity" : "generate2",
+          "start" : 64,
+          "length" : 14
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/DocumentReference-IPSPDFDocumentReference.json",
+      "size" : 1229,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 51,
+          "length" : 23
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 53,
+          "length" : 82
+        },
+        {
+          "activity" : "validate",
+          "start" : 62,
+          "length" : 118
+        },
+        {
+          "activity" : "generate1",
+          "start" : 63,
+          "length" : 15
+        },
+        {
+          "activity" : "generate2",
+          "start" : 64,
+          "length" : 13
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/DocumentReference-IPSSignedPDFDocumentReference.json",
+      "size" : 1069,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 51,
+          "length" : 22
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 53,
+          "length" : 5
+        },
+        {
+          "activity" : "validate",
+          "start" : 63,
+          "length" : 9
+        },
+        {
+          "activity" : "generate1",
+          "start" : 63,
+          "length" : 13
+        },
+        {
+          "activity" : "generate2",
+          "start" : 64,
+          "length" : 14
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/List-PilgrimFolder.json",
+      "size" : 1287,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 51,
+          "length" : 23
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 51,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 53,
+          "length" : 100
+        },
+        {
+          "activity" : "loadLists",
+          "start" : 57,
+          "length" : 8
+        },
+        {
+          "activity" : "validate",
+          "start" : 63,
+          "length" : 9
+        },
+        {
+          "activity" : "generate1",
+          "start" : 63,
+          "length" : 12
+        },
+        {
+          "activity" : "generate2",
+          "start" : 64,
+          "length" : 19
+        }
+      ]
+    }
+  ]
+}

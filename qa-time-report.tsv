@@ -1,0 +1,8 @@
+Source File	Size	loadResources	load	generateSnapshots	load-configure	scan	loadDepInfo	loadInfo	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+/fsh-generated/resources/ImplementationGuide-smart.who.int.ips-pilgrimage-test.json	9946	-	0	0	0	0	0	0	6	215	0	0	0	0	0	0	0	0	0	0	88	78	0	0	0	4	0	1
+fsh-generated/resources/Bundle-MyIPS.json	33856	33	86	0	0	0	0	0	3	1318	0	0	0	0	0	0	0	1	0	0	92	108	0	0	0	0	0	1
+fsh-generated/resources/DocumentReference-FHIRIPSDocumentReference.json	1215	23	0	0	0	0	0	0	0	181	0	0	0	0	0	0	0	0	0	0	14	20	0	0	0	0	0	0
+fsh-generated/resources/DocumentReference-FHIRIPSSignedDocumentReference.json	1067	23	0	0	0	0	0	0	0	154	0	0	0	0	0	0	0	0	0	0	18	14	0	0	0	0	0	0
+fsh-generated/resources/DocumentReference-IPSPDFDocumentReference.json	1229	23	0	0	0	0	0	0	0	82	0	0	0	0	0	0	0	0	0	0	15	13	0	0	0	0	0	0
+fsh-generated/resources/DocumentReference-IPSSignedPDFDocumentReference.json	1069	22	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	13	14	0	0	0	0	0	0
+fsh-generated/resources/List-PilgrimFolder.json	1287	23	0	0	0	0	0	0	1	100	0	8	0	0	0	0	0	0	0	0	12	19	0	0	0	0	0	0
